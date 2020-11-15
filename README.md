@@ -1,6 +1,8 @@
 # Backend Development Key Concepts
 
 ## Database
+MYSQL
+- https://www.mysqltutorial.org/
 
 ## Representational State Transfer (REST) Architectural Style
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
