@@ -20,8 +20,9 @@
 ## Data Format 
 - XML
 - Javascript Object Notation (JSON)
-  - Links: https://www.tutorialspoint.com/json/index.htm
+  - https://www.tutorialspoint.com/json/index.htm
 - Base 64 encoded string
+  - https://bit.ly/2H2W0hT
 
 ## Programming
 
