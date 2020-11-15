@@ -7,6 +7,11 @@
 - https://developer.github.com/v3/
 - https://stripe.com/docs/api
 
+## Message Queue
+- Kafka
+  - https://www.confluent.io/resources/kafka-the-definitive-guide
+- RabbitMQ
+
 ## Security 
 - Hashing Algorithm
 - OAuth  
