@@ -10,7 +10,9 @@
 ## Security 
 - Hashing Algorithm
 - JSON Web Token (JWT)
-  - https://jwt.io/introduction/
+  - https://jwt.io/introduction
+- OAuth  
+  - https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
 
 ## Data Transfer Format 
 - XML
