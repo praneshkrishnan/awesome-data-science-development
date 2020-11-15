@@ -29,6 +29,11 @@
 ### Programming Practice Platform
 - https://www.hackerrank.com/
 
+## Algorithm
+
+### Algorithmic Performance
+- Big O Notation
+
 ## Technical Blog Post
 - https://vicki.substack.com/
 
