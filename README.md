@@ -17,10 +17,11 @@
 - Simple Web Token (SWT)
 - Security Assertion Markup Language Token (SAML)
 
-## Data Transfer Format 
+## Data Format 
 - XML
 - Javascript Object Notation (JSON)
   - Links: https://www.tutorialspoint.com/json/index.htm
+- Base 64 encoded string
 
 ## Programming
 
