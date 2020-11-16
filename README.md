@@ -4,6 +4,11 @@
 MYSQL
 - https://www.mysqltutorial.org/
 
+## Cloud Infrastructure
+- AWS
+- Google Cloud
+
+
 ## Representational State Transfer (REST) Architectural Style
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 - https://developer.github.com/v3/
