@@ -19,6 +19,10 @@ MYSQL
 - https://developer.github.com/v3/
 - https://stripe.com/docs/api
 
+## Dashboard
+- Prometheus 
+- [Grafana](https://grafana.com/tutorials/grafana-fundamentals/#1)
+
 ## Message Queue
 - Kafka
   - https://www.confluent.io/resources/kafka-the-definitive-guide
