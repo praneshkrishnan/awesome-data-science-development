@@ -8,6 +8,8 @@ MYSQL
 - AWS
 - Google Cloud
 
+## Microservices
+- [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
 
 ## Representational State Transfer (REST) Architectural Style
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
