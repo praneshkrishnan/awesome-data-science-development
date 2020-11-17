@@ -55,6 +55,14 @@ MYSQL
 ### Algorithmic Performance
 - Big O Notation
 
+
+## Data Science
+
+### Model Serving
+- Flask
+- Tensorflow-Serving
+- [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/) 
+
 ## Technical Blog Post
 - https://vicki.substack.com/
 - https://engineering.linkedin.com/blog
