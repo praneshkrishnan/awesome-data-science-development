@@ -57,6 +57,7 @@ MYSQL
 
 ## Technical Blog Post
 - https://vicki.substack.com/
+- https://engineering.linkedin.com/blog
 
 ## Technical Youtube Vlogs
 - https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw
