@@ -16,6 +16,9 @@ MYSQL
 
 ## Representational State Transfer (REST) Architectural Style
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+
+### api
+- https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/
 - https://developer.github.com/v3/
 - https://stripe.com/docs/api
 
