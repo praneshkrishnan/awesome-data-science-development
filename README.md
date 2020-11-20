@@ -17,7 +17,7 @@ MYSQL
 ## Representational State Transfer (REST) Architectural Style
 - https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
-### api
+### API
 - https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/
 - https://developer.github.com/v3/
 - https://stripe.com/docs/api
@@ -47,6 +47,8 @@ MYSQL
   - https://www.tutorialspoint.com/json/index.htm
 - Base 64 encoded string
   - https://bit.ly/2H2W0hT
+- JSON
+  - https://stackabuse.com/reading-and-writing-json-in-java/
 
 ## Programming
 
