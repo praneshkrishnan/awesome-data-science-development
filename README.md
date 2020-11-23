@@ -68,6 +68,9 @@ MYSQL
 - Tensorflow-Serving
 - [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/) 
 
+### AI Content
+- https://ai.facebook.com/
+
 ## Technical Blog Post
 - https://vicki.substack.com/
 - https://engineering.linkedin.com/blog
