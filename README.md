@@ -52,6 +52,12 @@ MYSQL
 
 ## Programming
 
+### Python 
+- https://github.com/faif/python-patterns
+
+### Java
+- [Java Book](https://www.computer-pdf.com/programming/java/830-tutorial-java-notes-for-professionals-book.html)
+
 ### Programming Practice Platform
 - https://www.hackerrank.com/
 
