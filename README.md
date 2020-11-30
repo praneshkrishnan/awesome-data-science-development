@@ -25,6 +25,7 @@ MYSQL
 ## Dashboard
 - Prometheus 
 - [Grafana](https://grafana.com/tutorials/grafana-fundamentals/#1)
+- [Kibana](https://www.elastic.co/kibana)
 
 ## Message Queue
 - Kafka
@@ -67,7 +68,6 @@ MYSQL
 
 ### Algorithmic Performance
 - Big O Notation
-
 
 ## Data Science
 
