@@ -79,6 +79,9 @@ MYSQL
 ### AI Content
 - https://ai.facebook.com/
 
+## Book
+- https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications
+
 ## Technical Blog Post
 - https://vicki.substack.com/
 - https://engineering.linkedin.com/blog
