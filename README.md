@@ -29,7 +29,7 @@ MYSQL
 
 ## Message Queue
 - Kafka
-  - https://www.confluent.io/resources/kafka-the-definitive-guide
+  - https://bit.ly/2JZH45D
 - RabbitMQ
 
 ## Security 
