@@ -76,6 +76,9 @@ MYSQL
 - Tensorflow-Serving
 - [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/) 
 
+### Neural Network Optimization
+- TensorRT
+
 ### AI Content
 - https://ai.facebook.com/
 
