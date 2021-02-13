@@ -72,6 +72,7 @@ MYSQL
 ## Data Science
 
 ### Model Serving
+- Fast API
 - Flask
 - Tensorflow-Serving
 - [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/) 
