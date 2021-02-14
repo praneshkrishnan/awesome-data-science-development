@@ -54,6 +54,7 @@ MYSQL
 ## Programming
 
 ### Python 
+- https://github.com/vinta/awesome-python
 - https://github.com/faif/python-patterns
 - https://uwpce-pythoncert.github.io/SystemDevelopment/advanced_oo.html
 - https://medium.com/@yong.cui01
