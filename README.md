@@ -30,6 +30,7 @@ MYSQL
 ## Message Queue
 - Kafka
   - https://bit.ly/2JZH45D
+  - https://jaceklaskowski.gitbooks.io/apache-kafka/content/
 - RabbitMQ
 
 ## Security 
