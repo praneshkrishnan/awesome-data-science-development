@@ -26,6 +26,7 @@ MYSQL
 - Prometheus 
 - [Grafana](https://grafana.com/tutorials/grafana-fundamentals/#1)
 - [Kibana](https://www.elastic.co/kibana)
+- [Metabase](https://www.metabase.com/)
 
 ## Message Queue
 - Kafka
