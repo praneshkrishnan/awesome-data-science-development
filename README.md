@@ -3,13 +3,16 @@
 ### Overview
 - https://roadmap.sh/backend
 
-## Database
+## Database & ORM
 MYSQL
 - https://www.mysqltutorial.org/
+SqlAlchemy
+- https://docs.sqlalchemy.org/en/13/orm/tutorial.html
 
 ## Cloud Infrastructure
 - AWS
 - Google Cloud
+- [Server setup](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
 ## Microservices
 - [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
@@ -67,6 +70,7 @@ MYSQL
 
 ### Programming Practice Platform
 - https://www.hackerrank.com/
+- [The missing CS semester](https://missing.csail.mit.edu/)
 
 ## Algorithm
 
@@ -86,6 +90,7 @@ MYSQL
 
 ### AI Content
 - https://ai.facebook.com/
+- [Full Stack DL](https://fall2019.fullstackdeeplearning.com/)
 
 ## Book
 - https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications
