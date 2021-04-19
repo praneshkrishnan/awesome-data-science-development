@@ -92,6 +92,13 @@ SqlAlchemy
 - https://ai.facebook.com/
 - [Full Stack DL](https://fall2019.fullstackdeeplearning.com/)
 
+### Deployment
+**Containerization** 
+- [docker](https://docs.docker.com/get-started/)
+
+## CI / CD
+-  [github actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
+
 ## Book
 - https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications
 
