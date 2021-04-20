@@ -12,9 +12,12 @@ SqlAlchemy
 ## Cloud Infrastructure
 - AWS
 - Google Cloud
+- - Microsoft Azure 
 - [Server setup](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
-## Microservices
+## Software Architecture
+- Service-Oriented Architecture (SOA)
+- Microservices Architecture
 - [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/)
 
 ## Representational State Transfer (REST) Architectural Style
@@ -57,6 +60,14 @@ SqlAlchemy
 - JSON
   - https://stackabuse.com/reading-and-writing-json-in-java/
 
+## Version Control System 
+- Git
+
+## Git-based Code Hosting Platform 
+- Github
+- Gitlab
+
+
 ## Programming
 
 ### Python 
@@ -79,6 +90,33 @@ SqlAlchemy
 
 ## Data Science
 
+### Data Science Programming Libraries 
+**Python** 
+- NumPy
+- Pandas
+- Pytorch
+- Matplotlib
+= Wandb 
+
+### Data Science Package Management 
+**Python** 
+- Anaconda / Miniconda
+- Pip
+
+**Java** 
+- Apache Maven 
+- Gradle
+
+### Data Science Environment 
+**Python**
+- Jupyter Notebook / Jupyter Lab
+- PyCharm 
+- Visual Studio Code
+
+**Java** 
+- Intellij
+- Eclipse IDE
+
 ### Model Serving
 - Fast API
 - Flask
@@ -94,13 +132,17 @@ SqlAlchemy
 
 ### Deployment
 **Containerization** 
-- [docker](https://docs.docker.com/get-started/)
+- [Docker](https://docs.docker.com/get-started/)
 
 ## CI / CD
--  [github actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
+-  [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
 
 ## Book
 - https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications
+
+## Documentation 
+- Swagger
+- Javadoc (Java programming)
 
 ## Technical Blog Post
 - https://vicki.substack.com/
