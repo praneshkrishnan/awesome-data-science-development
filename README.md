@@ -67,14 +67,18 @@ SqlAlchemy
 - Github
 - Gitlab
 
-
 ## Programming
+
 
 ### Python 
 - https://github.com/vinta/awesome-python
 - https://github.com/faif/python-patterns
 - https://uwpce-pythoncert.github.io/SystemDevelopment/advanced_oo.html
 - https://medium.com/@yong.cui01
+
+**Clean Code**
+- https://github.com/zedr/clean-code-python
+- https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214
 
 ### Java
 - [Java Book](https://www.computer-pdf.com/programming/java/830-tutorial-java-notes-for-professionals-book.html)
@@ -89,6 +93,7 @@ SqlAlchemy
 - Big O Notation
 
 ## Data Science
+
 
 ### Data Science Programming Libraries 
 **Python** 
@@ -122,6 +127,11 @@ SqlAlchemy
 - Flask
 - Tensorflow-Serving
 - [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/) 
+
+### Clean Code for Data Science Workflow
+
+https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3
+
 
 ### Neural Network Optimization
 - TensorRT
