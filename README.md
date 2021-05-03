@@ -4,6 +4,8 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 ## Software Architecture
 - Service-Oriented (SOA)
 - Microservices
+
+### Notes
 - [Event-Driven](https://aws.amazon.com/event-driven-architecture/)
 
 ## Cloud Infrastructure
