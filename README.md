@@ -150,6 +150,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 - Pandas _Data Manipulation & Analysis_
 - Matplotlib _Data Visualization_
 - Wandb _ML Visualization_
+- [Numpy_ml Machine Learning, in Numpy](https://github.com/ddbourgin/numpy-ml)
 
 **Machine Learning Library**
 - OpenCV
