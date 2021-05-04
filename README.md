@@ -154,7 +154,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 **Machine Learning Library**
 - OpenCV
 - [FlashLight](https://github.com/flashlight/flashlight)
-- [Numpy_ml Machine Learning, in Numpy](https://github.com/ddbourgin/numpy-ml)
+- [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)
 
 ### Data Science Package Management 
 **Python** 
