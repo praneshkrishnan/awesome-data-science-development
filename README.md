@@ -198,6 +198,10 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 - [Full Stack DL](https://fall2019.fullstackdeeplearning.com/)
 
 ### Domain Specific 
+
+**OCR**
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+
 **Time Series**
 - https://otexts.com/fpp3/
 
