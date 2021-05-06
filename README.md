@@ -51,6 +51,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 **Kafka**
 - https://bit.ly/2JZH45D
 - https://jaceklaskowski.gitbooks.io/apache-kafka/content/
+
 **RabbitMQ**
 
 ### Deployment
@@ -150,6 +151,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 - Pandas _Data Manipulation & Analysis_
 - Matplotlib _Data Visualization_
 - Wandb _ML Visualization_
+- [Prefect _Data Automation_ ](https://github.com/PrefectHQ/prefect)
 
 **Machine Learning Library**
 - OpenCV
