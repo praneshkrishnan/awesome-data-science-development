@@ -92,7 +92,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 - React
 
 ### Cross Platform Desktop Application
-- Electron](https://github.com/electron/electron
+- [Electron](https://github.com/electron/electron)
 
 ## CI / CD
 -  [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
