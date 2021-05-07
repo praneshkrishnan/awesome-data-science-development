@@ -160,6 +160,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 **Machine Learning Library**
 - OpenCV
 - [FlashLight](https://github.com/flashlight/flashlight)
+- [statsmodel _Statistical modeling and econometrics in Python_](https://github.com/statsmodels/statsmodels)
 - [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)
 
 ### Data Science Package Management 
