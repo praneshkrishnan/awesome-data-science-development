@@ -1,6 +1,7 @@
 # Awesome Data Science Development
 A continual adding list of libraries, frameworks, softwares and tools used in data science.
 
+
 ## Backend Development
 
 | Overview |
@@ -11,6 +12,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 | ---------------------  |
 | Service-Oriented (SOA) |
 | Microservices |
+
 
 **Notes**
 - [Event-Driven](https://aws.amazon.com/event-driven-architecture/)
@@ -29,6 +31,30 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 | Visual Paradigm |
 | DbSchema |
 
+| REST |
+| ---------------------  |
+| [Representational State Transfer (REST) Architectural Style](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) |
+
+
+**REST API References**
+- https://developer.github.com/v3/
+- https://stripe.com/docs/api
+
+| Messaging Queue | Notes |
+| ---------------------  | ---------------------  |
+| RabbitMQ | |
+| Kafka | - https://bit.ly/2JZH45D<br />- https://jaceklaskowski.gitbooks.io/apache-kafka/content/ |
+
+| Version Control System  |
+| ---------------------  |
+| Git |
+
+| Git-based Code Hosting Platform  |
+| ---------------------  |
+| Github |
+| Gitlab |
+| Bitbucket |
+
 ## Cloud Infrastructure
 
 | Cloud Provider |
@@ -41,25 +67,32 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 **Notes**
 - [Server Setup Guidelines](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
-### REST
-**Representational State Transfer (REST) Architectural Style**
-- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+| DevOps, CI/CD |
+| ---------------------  |
+| Github Actions |
+| Jenkins |
+| Ansible |
+| Azure DevOps |
 
-**REST API**
-- https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/
-- https://developer.github.com/v3/
-- https://stripe.com/docs/api
+| Code Analysis |
+| ---------------------  |
+| SonarQube |
+| SonarCloud |
+| SonarLint |
 
-### Message Queue
-**Kafka**
-- https://bit.ly/2JZH45D
-- https://jaceklaskowski.gitbooks.io/apache-kafka/content/
+| Robotic Process Automatic (RPA)|
+| ---------------------  |
+| UiPath |
+| Automation Anywhere |
 
-**RabbitMQ**
+| Dashboard|
+| ---------------------  |
+| [Thingsboard](https://github.com/thingsboard/thingsboard) |
+| [Grafana](https://grafana.com/) |
+| [Prometheus](_Monitoring System and Time Series Database) |
 
-### Dashboard
-- [Thingsboard](https://github.com/thingsboard/thingsboard)
-- [Grafana](https://grafana.com/)
+**Other Notes**
+- [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/)
 
 ### Deployment
 **Containerization**
@@ -108,13 +141,6 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
     
 **Base 64 encoded string** 
   - https://bit.ly/2H2W0hT
-
-## Version Control System 
-- Git
-
-## Git-based Code Hosting Platform 
-- Github
-- Gitlab
 
 ## Programming
 
