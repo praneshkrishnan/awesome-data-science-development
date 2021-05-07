@@ -69,7 +69,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 
 | DevOps, CI/CD |
 | ---------------------  |
-| Github Actions |
+| [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world) |
 | Jenkins |
 | Ansible |
 | Azure DevOps |
@@ -87,9 +87,8 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 
 | Dashboard|
 | ---------------------  |
-| [Thingsboard](https://github.com/thingsboard/thingsboard) |
 | [Grafana](https://grafana.com/) |
-| [Prometheus](_Monitoring System and Time Series Database) |
+| Prometheus _Monitoring System and Time Series Database_|
 
 **Other Notes**
 - [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/)
@@ -120,18 +119,30 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 - Swagger
 - Javadoc (For Java)
 
+
+### IOTG
+| Application | Functionality |
+| ---------------------  | ---------------------  |
+| [Thingsboard](https://github.com/thingsboard/thingsboard) | IOT data collection, processing and visualization |
+
 ## Frontend Development
-### TypeScript Framework
-- Angular
 
-### JavaScript Library 
-- React
+| Basic Stack| Functionality |
+| ---------------------  | ---------------------  |
+| HTML | Content Layer |
+| CSS | Presentation Layer |
+| JavaScript | Interactive Layer |
 
-### Cross Platform Desktop Application
-- [Electron](https://github.com/electron/electron)
+| Name | Framework / Library |
+| ---------------------  | ---------------------  |
+| Angular | Typescript framework |
+| VueJS | Javascript framework |
+| React | Javascript Library |
 
-## CI / CD
--  [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
+**Others**
+| Name | Functionality |
+| ---------------------  | ---------------------  |
+| [Electron](https://github.com/electron/electron)| Cross Platform Desktop Application |
 
 ## Data Format 
 **XML**
