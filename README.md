@@ -1,42 +1,45 @@
 # Awesome Data Science Development
 A continual adding list of libraries, frameworks, softwares and tools used in data science.
 
-## Software Architecture
-- Service-Oriented (SOA)
-- Microservices
+## Backend Development
 
-### Notes
+| Overview |
+| ---------------------  |
+| https://roadmap.sh/backend |
+
+| Software Architecture |
+| ---------------------  |
+| Service-Oriented (SOA) |
+| Microservices |
+
+**Notes**
 - [Event-Driven](https://aws.amazon.com/event-driven-architecture/)
+
+| Structure Query Language |
+| ---------------------  |
+| [MySQL](https://www.mysqltutorial.org/) |
+| [PostgreSQL](https://www.postgresql.org/) |
+
+| ERD Diagram Tool |
+| ---------------------  |
+| Diagram.net |
+| DbDesigner.net |
+| SqlDbm |
+| DbDiagram.io |
+| Visual Paradigm |
+| DbSchema |
 
 ## Cloud Infrastructure
 
-### Cloud Provider
-- AWS
-- Google Cloud
-- Microsoft Azure
-- Huawei cloud
+| Cloud Provider |
+| ---------------------  |
+| AWS |
+| Google Cloud |
+| Microsoft Azure |
+| Huawei Cloud |
 
-### Notes
+**Notes**
 - [Server Setup Guidelines](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
-
-## Database
-**MYSQL**
-- https://www.mysqltutorial.org/
-
-**Postgres**
-
-**ERD Diagram Tool**
-- Diagram.net
-- DbDesigner.net
-- SqlDbm
-- DbDiagram.io
-- Visual Paradigm
-- DbSchema
-
-## Backend Development
-
-### Overview
-- https://roadmap.sh/backend
 
 ### REST
 **Representational State Transfer (REST) Architectural Style**
