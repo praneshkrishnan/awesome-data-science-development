@@ -214,7 +214,7 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 
 ### Data Science Environment 
 **Python**
-- Jupyter Lab / Jupyter Notebook
+- [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / Jupyter Notebook
 - PyCharm 
 - Visual Studio Code
 
