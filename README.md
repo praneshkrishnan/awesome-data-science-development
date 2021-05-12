@@ -218,6 +218,12 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 - PyCharm 
 - Visual Studio Code
 
+
+| Books |
+| ---------------------  |
+| [Rules for Machine Learning, Best Practices for ML Engineering](https://drive.google.com/file/d/1JerUZwcMV6se8u-JkERVENgAVnTgdf5j/view?usp=sharing) |
+
+
 **Java** 
 - Intellij Ultimate / Community
 
