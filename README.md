@@ -1,4 +1,4 @@
-# Awesome Data Science Development
+# Awesome Data Science Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A continual adding list of libraries, frameworks, softwares and tools used in data science.
 
 
@@ -17,10 +17,10 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 **Notes**
 - [Event-Driven](https://aws.amazon.com/event-driven-architecture/)
 
-| Structure Query Language |
-| ---------------------  |
-| [MySQL](https://www.mysqltutorial.org/) |
-| [PostgreSQL](https://www.postgresql.org/) |
+| Structure Query Language | Books |
+| ---------------------  | ---------------------  |
+| [MySQL](https://www.mysqltutorial.org/) | [MySQL_NotesForProfessional](https://drive.google.com/file/d/1DOvXKckGNXqety0-1WQybPzbhKenlHnJ/view?usp=sharing) |
+| [PostgreSQL](https://www.postgresql.org/) | - |
 
 | ERD Diagram Tool |
 | ---------------------  |
