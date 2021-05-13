@@ -7,6 +7,9 @@ Table of Contents
 
 - [Backend Development](#backend-development)
 - [Frontend Development](#frontend-development)
+- [Cloud Infrastructure](#cloud-infrastructure)
+- [Programming](#programming)
+- [Data Science](#data-science)
 - [Book](#book)
 - [Course](#course)
 
