@@ -2,6 +2,14 @@
 A continual adding list of libraries, frameworks, softwares and tools used in data science.
 
 
+Table of Contents
+-----------------
+
+- [Backend Development](#backend-development)
+- [Frontend Development](#frontend-development)
+- [Book](#book)
+- [Course](#course)
+
 ## Backend Development
 
 | Overview |
@@ -254,10 +262,19 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 
 **Natural Language Processing**
 - Hugging Face
-- [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n/)
+- [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n
 
-## Book
-- https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications
+## Book 
+
+| Book  |
+| ---------------------  |
+| [Designing Data Intensive Applications](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications) |
+
+## Course
+
+| Course  |
+| ---------------------  |
+| [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) |
 
 ## Technical Blog Post
 - https://vicki.substack.com/
