@@ -10,8 +10,10 @@ Table of Contents
 - [Cloud Infrastructure](#cloud-infrastructure)
 - [Programming](#programming)
 - [Data Science](#data-science)
-- [Book](#book)
+- [Book](#e-book)
 - [Course](#course)
+- [Technical Blog](#technical-blog)
+- [Technical Vlog](#technical-vlog)
 
 ## Backend Development
 
@@ -175,11 +177,6 @@ Table of Contents
 | Unstructured | - https://github.com/vinta/awesome-python<br />- https://github.com/faif/python-patterns<br />- https://uwpce-pythoncert.github.io/SystemDevelopment/advanced_oo.html<br />- https://medium.com/@yong.cui01 |
 | Clean Code | - https://github.com/zedr/clean-code-python<br />- https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214 |
 
-**Java**
-| Java | Resources|
-| ---------------------  | ---------------------  |
-| Book | - [Java Notes for Professionals](https://www.computer-pdf.com/programming/java/830-tutorial-java-notes-for-professionals-book.html) |
-
 **Programming IDE** 
 
 | Language | IDE |
@@ -208,7 +205,6 @@ Table of Contents
 | Others | Resources |
 | ---------------------  | ---------------------  |
 | Programming Practice Platform | - https://www.hackerrank.com/ |
-| Course | - [The missing CS semester](https://missing.csail.mit.edu/)|
 
 
 ## Algorithm
@@ -238,6 +234,7 @@ Table of Contents
 - [FlashLight](https://github.com/flashlight/flashlight)
 - [statsmodel _Statistical modeling and econometrics in Python_](https://github.com/statsmodels/statsmodels)
 - [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)
+- [HuggingFace _SOTA NLP_](https://huggingface.co/)
 
 ### Data Science Package Management 
 **Python** 
@@ -247,12 +244,6 @@ Table of Contents
 **Java** 
 - Apache Maven 
 - Gradle
-
-| Books |
-| ---------------------  |
-| [Rules for Machine Learning, Best Practices for ML Engineering](https://drive.google.com/file/d/1JerUZwcMV6se8u-JkERVENgAVnTgdf5j/view?usp=sharing) |
-| [Web Scraping With Python](https://drive.google.com/file/d/1Yg8fLmdLBWVot9lOZ6JrWeX4bqCvIKoM/view?usp=sharing) |
-
 
 ### Model Serving
 - Fast API
@@ -267,41 +258,62 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 ### Neural Network Optimization
 - TensorRT
 
-### AI Content Website
-- https://ai.facebook.com/
-- [Full Stack DL](https://fall2019.fullstackdeeplearning.com/)
-
 ### Domain Specific 
 
-**OCR**
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+| Text Detector  |
+| ---------------------  |
+| [EAST: An Efficient and Accurate Scene Text Detector CVPR 2017](https://paperswithcode.com/paper/east-an-efficient-and-accurate-scene-text) |
+ 
+| OCR  |
+| ---------------------  |
+| [EasyOCR](https://github.com/JaidedAI/EasyOCR) |
 
 **Time Series**
 - https://otexts.com/fpp3/
 
-**Natural Language Processing**
-- Hugging Face
-- [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n
+## E-Book 
 
-## Book 
-
-| Book  |
+| Data Science  |
 | ---------------------  |
 | [Designing Data Intensive Applications](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications) |
+| [Rules for Machine Learning, Best Practices for ML Engineering](https://drive.google.com/file/d/1JerUZwcMV6se8u-JkERVENgAVnTgdf5j/view?usp=sharing) |
+| [Web Scraping With Python](https://drive.google.com/file/d/1Yg8fLmdLBWVot9lOZ6JrWeX4bqCvIKoM/view?usp=sharing) |
+| [Practical AI on the Google Cloud Platform](https://drive.google.com/file/d/1_vXUazysEG9EzXadvGWV5PiByy_54C4v/view?usp=sharing) |
+| [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) |
+
+| Programming  |
+| ---------------------  |
+| [Java Notes for Professionals](https://www.computer-pdf.com/programming/java/830-tutorial-java-notes-for-professionals-book.html) |
 
 ## Course
 
-| Course  |
+| Computer Science  |
 | ---------------------  |
 | [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) |
+| [The missing CS semester](https://missing.csail.mit.edu/) |
 
-## Technical Blog Post
-- https://vicki.substack.com/
-- https://engineering.linkedin.com/blog
+| NLP |
+| ---------------------  |
+| [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n) |
 
-## Technical Youtube Vlogs
-- https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw
-- https://www.youtube.com/channel/UCW4ixpFivk6eJl8b5bFOLkg
+## Technical Blog
 
+| Software Engineering |
+| ---------------------  |
+| [NormCore Tech](https://vicki.substack.com/) |
+| [Linked In Engineering](https://engineering.linkedin.com/blog) |
+| [Dropbox Tech](https://dropbox.tech/)
+
+| Data Science |
+| ---------------------  |
+| [Facebook AI](https://ai.facebook.com/) |
+
+
+## Technical Vlog
+
+| Software Engineering |
+| ---------------------  |
+| [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw) |
+| [승지니어 Sengineer (In Korean)](https://www.youtube.com/channel/UCW4ixpFivk6eJl8b5bFOLkg) |
 
 
