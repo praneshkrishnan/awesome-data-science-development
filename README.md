@@ -166,25 +166,50 @@ Table of Contents
 
 ## Programming
 
-### Python 
-- https://github.com/vinta/awesome-python
-- https://github.com/faif/python-patterns
-- https://uwpce-pythoncert.github.io/SystemDevelopment/advanced_oo.html
-- https://medium.com/@yong.cui01
+### Backend
 
-### Java
-- [Java Book](https://www.computer-pdf.com/programming/java/830-tutorial-java-notes-for-professionals-book.html)
-
-### Clean Code
 **Python**
-- https://github.com/zedr/clean-code-python
-- https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214
 
-### Programming Practice Platform
-- https://www.hackerrank.com/
+| Python | Resources|
+| ---------------------  | ---------------------  |
+| Unstructured | - https://github.com/vinta/awesome-python<br />- https://github.com/faif/python-patterns<br />- https://uwpce-pythoncert.github.io/SystemDevelopment/advanced_oo.html<br />- https://medium.com/@yong.cui01 |
+| Clean Code | - https://github.com/zedr/clean-code-python<br />- https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214 |
+
+**Java**
+| Java | Resources|
+| ---------------------  | ---------------------  |
+| Book | - [Java Notes for Professionals](https://www.computer-pdf.com/programming/java/830-tutorial-java-notes-for-professionals-book.html) |
+
+**Programming IDE** 
+
+| Language | IDE |
+| ---------------------  | ---------------------  |
+| Java | - Intellij Community / Ultimate (Paid) |
+| Python | - Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) (Data Science)<br />- PyCharm<br />- Visual Studio Code|
+
+**Frontend**
+
+**TypeScript**
+
+| TypeScript | Resources|
+| ---------------------  | ---------------------  |
+| Tutorials | -[TypeScript From Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)|
+| JavaScript ES6 | -[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)<br />-[Github es6features](https://github.com/lukehoban/es6features#readme)|
+
+
+**Programming IDE**
+
+| Language | IDE |
+| ---------------------  | ---------------------  |
+| JavaScript/TypeScript | - Visual Studio Code<br /> - JetBrains WebStorm (Paid) |
   
-### Others
-- [The missing CS semester](https://missing.csail.mit.edu/)
+**Others**
+
+| Others | Resources |
+| ---------------------  | ---------------------  |
+| Programming Practice Platform | - https://www.hackerrank.com/ |
+| Course | - [The missing CS semester](https://missing.csail.mit.edu/)|
+
 
 ## Algorithm
 
@@ -223,20 +248,11 @@ Table of Contents
 - Apache Maven 
 - Gradle
 
-### Data Science Environment 
-**Python**
-- [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / Jupyter Notebook
-- PyCharm 
-- Visual Studio Code
-
-
 | Books |
 | ---------------------  |
 | [Rules for Machine Learning, Best Practices for ML Engineering](https://drive.google.com/file/d/1JerUZwcMV6se8u-JkERVENgAVnTgdf5j/view?usp=sharing) |
 
 
-**Java** 
-- Intellij Ultimate / Community
 
 ### Model Serving
 - Fast API
