@@ -8,6 +8,7 @@ Table of Contents
 - [Backend Development](#backend-development)
 - [Frontend Development](#frontend-development)
 - [Cloud Infrastructure](#cloud-infrastructure)
+- [Web](#web)
 - [Programming](#programming)
 - [Data Science](#data-science)
 - [Book](#e-book)
@@ -163,6 +164,8 @@ Table of Contents
 
 ## Web
 
+| Web Hosting  |
+| ---------------------  |
 | [Github Pages _Hosting with Github_](https://pages.github.com/)
 
 ## Programming
@@ -191,7 +194,6 @@ Table of Contents
 | ---------------------  | ---------------------  |
 | Tutorials | -[TypeScript From Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)|
 | JavaScript ES6 | -[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)<br />-[Github es6features](https://github.com/lukehoban/es6features#readme)|
-
 
 **Programming IDE**
 
