@@ -251,7 +251,7 @@ Table of Contents
 | Books |
 | ---------------------  |
 | [Rules for Machine Learning, Best Practices for ML Engineering](https://drive.google.com/file/d/1JerUZwcMV6se8u-JkERVENgAVnTgdf5j/view?usp=sharing) |
-
+| [Web Scraping With Python](https://drive.google.com/file/d/1Yg8fLmdLBWVot9lOZ6JrWeX4bqCvIKoM/view?usp=sharing) |
 
 
 ### Model Serving
