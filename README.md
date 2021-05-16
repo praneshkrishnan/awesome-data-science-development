@@ -98,11 +98,6 @@ Table of Contents
 | UiPath |
 | Automation Anywhere |
 
-| Dashboard|
-| ---------------------  |
-| [Grafana](https://grafana.com/) |
-| Prometheus _Monitoring System and Time Series Database_|
-
 **Other Notes**
 - [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/)
 
@@ -165,6 +160,10 @@ Table of Contents
     
 **Base 64 encoded string** 
   - https://bit.ly/2H2W0hT
+
+## Web
+
+| [Github Pages _Hosting with Github_](https://pages.github.com/)
 
 ## Programming
 
@@ -244,6 +243,15 @@ Table of Contents
 **Java** 
 - Apache Maven 
 - Gradle
+
+### Data Science Tools
+
+| Dashboard, Data Exploration & Visualization  |
+| ---------------------  |
+| [Apache Superset _Data Exploration and Visualization_](https://superset.apache.org/) |
+| [Grafana](https://grafana.com/) |
+| Prometheus _Monitoring System and Time Series Database_ |
+
 
 ### Model Serving
 - Fast API
