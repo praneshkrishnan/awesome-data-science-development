@@ -313,6 +313,7 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 | [NormCore Tech](https://vicki.substack.com/) |
 | [Linked In Engineering](https://engineering.linkedin.com/blog) |
 | [Dropbox Tech](https://dropbox.tech/)
+| [Uber Engineering Tech](https://eng.uber.com/category/articles/)
 
 | Data Science |
 | ---------------------  |
