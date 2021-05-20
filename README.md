@@ -281,6 +281,15 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 **Time Series**
 - https://otexts.com/fpp3/
 
+### Business Intelligence
+
+| Business Intelligence Tool |
+| ---------------------  |
+| Excel |
+| Google Data Studio |
+| Power BI |
+| Tableau |
+
 ## E-Book 
 
 | Data Science  |
