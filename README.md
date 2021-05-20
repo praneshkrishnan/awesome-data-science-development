@@ -290,6 +290,7 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 | [Web Scraping With Python](https://drive.google.com/file/d/1Yg8fLmdLBWVot9lOZ6JrWeX4bqCvIKoM/view?usp=sharing) |
 | [Practical AI on the Google Cloud Platform](https://drive.google.com/file/d/1_vXUazysEG9EzXadvGWV5PiByy_54C4v/view?usp=sharing) |
 | [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) |
+| [Principle of Data Wrangling](https://drive.google.com/file/d/1esVWOzVoitAayixFhAGMOXNvz2fPSWHX/view?usp=sharing) |
 
 | Programming  |
 | ---------------------  |
