@@ -17,6 +17,9 @@ Table of Contents
   - [DevOps](#devops)
   - [Code Analysis](#code-analysis)
   - [Robotic Process Automation](#robotic-process-automation)
+  - [Data Format](#data-format)
+  - [Deployment](#deployment)
+  - [Security](#security)
   - [Other Notes](#backend-other-notes)
 - [Cloud Infrastructure](#cloud-infrastructure)
   - [Cloud Provider](#cloud-provider)
@@ -25,9 +28,13 @@ Table of Contents
   - [Basic Stack](#basic-stack)
   - [Frontend Library](#frontend-library)
   - [Frontend Framework](#frontend-framework)
+  - [Other Notes](#frontend-other-notes)
 - [Web](#web)
+  - [Web Hosting](#web-hosting)
+- [IOTG](#iotg)
 - [Programming](#programming)
 - [Data Science](#data-science)
+- [Business Intelligence](#business-intelligence)
 - [Book](#e-book)
 - [Course](#course)
 - [Technical Blog](#technical-blog)
@@ -75,6 +82,11 @@ Table of Contents
 | [Github](https://developer.github.com/v3/) |
 | [Stripe](https://stripe.com/docs/api) |
 
+| Others  |
+| ---------------------  |
+| Rest Documentation - Swagger |
+
+
 ### Message Queue
 
 | Message Queue | Notes |
@@ -120,6 +132,39 @@ Table of Contents
 | UiPath |
 | Automation Anywhere |
 
+### Data Format 
+
+| Data Format|
+| ---------------------  |
+| XML |
+| [Javascript Object Notation (JSON)](https://www.tutorialspoint.com/json/index.htm) |
+| [Base 64 Encoded String](https://bit.ly/2H2W0hT) |
+
+### Deployment
+
+| Containerization  |
+| ---------------------  |
+| [Docker](https://docs.docker.com/get-started/) |
+
+| Scaling  |
+| ---------------------  |
+| Docker Swarm |
+| Kubernetes |
+
+### Security
+
+| General  |
+| ---------------------  |
+| Hashing |
+| Encryption |
+| [OAuth](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html) |
+
+| Authentication Token  |
+| ---------------------  |
+| [JSON Web Token (JWT)](https://jwt.io/introduction) |
+| Simple Web Token (SWT) |
+| Security Assertion Markup Language Token (SAML) |
+
 ### Backend Other Notes
 
 | Other Notes |
@@ -137,6 +182,7 @@ Table of Contents
 | Google Cloud |
 | Microsoft Azure |
 | Huawei Cloud |
+| Digital Ocean |
 
 ### Cloud Other Notes
 | Other Notes |
@@ -166,170 +212,33 @@ Table of Contents
 | Angular | Typescript framework |
 | VueJS | Javascript framework |
 
-**Others**
+### Frontend Other Notes
 | Name | Functionality |
 | ---------------------  | ---------------------  |
 | [Electron](https://github.com/electron/electron)| Cross Platform Desktop Application |
 
-### Deployment
-**Containerization**
-- [Docker](https://docs.docker.com/get-started/)
-
-**Scaling**
-- Docker Swarm
-- Kubernetes
-
-### Security
-- Hashing
-- Encryption
-- OAuth
-  - https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html
-  
-### Authentication Token
-**JSON Web Token (JWT)**
-  - https://jwt.io/introduction
-
-**Simple Web Token (SWT)**  
-
-**Security Assertion Markup Language Token (SAML)**
-
-### Documentation
-- Swagger
-- Javadoc (For Java)
-
-### IOTG
-| Application | Functionality |
-| ---------------------  | ---------------------  |
-| [Thingsboard](https://github.com/thingsboard/thingsboard) | IOT data collection, processing and visualization |
-
-## Data Format 
-**XML**
-
-**Javascript Object Notation (JSON)**
-  - https://www.tutorialspoint.com/json/index.htm
-    
-**Base 64 encoded string** 
-  - https://bit.ly/2H2W0hT
-
 ## Web
+
+### Web Hosting
 
 | Web Hosting  |
 | ---------------------  |
 | [Github Pages _Hosting with Github_](https://pages.github.com/)
 
-## Programming
+## IOTG
 
-### Backend
+| Edge Device | 
+| ---------------------  | 
+| Raspberry Pi | 
+| Jetson Nano | 
+| Jetson Nano | 
 
-**Python**
-
-| Python | Resources|
+| Application | Functionality |
 | ---------------------  | ---------------------  |
-| Unstructured | - https://github.com/vinta/awesome-python<br />- https://github.com/faif/python-patterns<br />- https://uwpce-pythoncert.github.io/SystemDevelopment/advanced_oo.html<br />- https://medium.com/@yong.cui01 |
-| Clean Code | - https://github.com/zedr/clean-code-python<br />- https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214 |
-
-**Programming IDE** 
-
-| Language | IDE |
-| ---------------------  | ---------------------  |
-| Java | - Intellij Community / Ultimate (Paid) |
-| Python | - Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) (Data Science)<br />- PyCharm<br />- Visual Studio Code|
-
-**Frontend**
-
-**TypeScript**
-
-| TypeScript | Resources|
-| ---------------------  | ---------------------  |
-| Tutorials | -[TypeScript From Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)|
-| JavaScript ES6 | -[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)<br />-[Github es6features](https://github.com/lukehoban/es6features#readme)|
-
-**Programming IDE**
-
-| Language | IDE |
-| ---------------------  | ---------------------  |
-| JavaScript/TypeScript | - Visual Studio Code<br /> - JetBrains WebStorm (Paid) |
-  
-**Others**
-
-| Others | Resources |
-| ---------------------  | ---------------------  |
-| Programming Practice Platform | - https://www.hackerrank.com/ |
+| [Thingsboard](https://github.com/thingsboard/thingsboard) | IOT data collection, processing and visualization |
 
 
-## Algorithm
-
-### Algorithmic Performance
-- Big O Notation
-
-## Data Science
-
-### Deep Learning Frameworks
-- Pytorch
-- Tensorflow 1 / 2
-- Eclipse Deeplearning4j
-- Keras
-
-### Data Science Programming Libraries
-
-**Python** 
-- NumPy _Multi Dimensional Array Processing_
-- Pandas _Data Manipulation & Analysis_
-- Matplotlib _Data Visualization_
-- Wandb _ML Visualization_
-- [Prefect _Data Automation_ ](https://github.com/PrefectHQ/prefect)
-
-**Machine Learning Library**
-- OpenCV
-- [FlashLight](https://github.com/flashlight/flashlight)
-- [statsmodel _Statistical modeling and econometrics in Python_](https://github.com/statsmodels/statsmodels)
-- [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)
-- [HuggingFace _SOTA NLP_](https://huggingface.co/)
-
-### Data Science Package Management 
-**Python** 
-- Anaconda / Miniconda
-- Pip
-
-**Java** 
-- Apache Maven 
-- Gradle
-
-### Data Science Tools
-
-| Dashboard, Data Exploration & Visualization  |
-| ---------------------  |
-| [Apache Superset _Data Exploration and Visualization_](https://superset.apache.org/) |
-| [Grafana](https://grafana.com/) |
-| Prometheus _Monitoring System and Time Series Database_ |
-
-### Model Serving
-- Fast API
-- Flask
-- Tensorflow-Serving
-- [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/) 
-
-### Clean Code for Data Science Workflow
-
-https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3
-
-### Neural Network Optimization
-- TensorRT
-
-### Domain Specific 
-
-| Text Detector  |
-| ---------------------  |
-| [EAST: An Efficient and Accurate Scene Text Detector CVPR 2017](https://paperswithcode.com/paper/east-an-efficient-and-accurate-scene-text) |
- 
-| OCR  |
-| ---------------------  |
-| [EasyOCR](https://github.com/JaidedAI/EasyOCR) |
-
-**Time Series**
-- https://otexts.com/fpp3/
-
-### Business Intelligence
+## Business Intelligence
 
 | Business Intelligence Tool |
 | ---------------------  |
@@ -378,7 +287,6 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 | Data Science |
 | ---------------------  |
 | [Facebook AI](https://ai.facebook.com/) |
-
 
 ## Technical Vlog
 
