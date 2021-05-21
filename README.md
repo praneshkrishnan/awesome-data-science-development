@@ -99,8 +99,11 @@ Table of Contents
 | UiPath |
 | Automation Anywhere |
 
-**Other Notes**
-- [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/)
+| Other Notes |
+| ---------------------  |
+| [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/) |
+| [Keep a change log](https://keepachangelog.com/en/1.0.0/) |
+
 
 ### Deployment
 **Containerization**
