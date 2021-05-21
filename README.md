@@ -5,6 +5,11 @@ A continual adding list of libraries, frameworks, softwares and tools used in da
 Table of Contents
 -----------------
 
+- [Data Science](#data-science)
+  - [Machine Learning](#machine-learning) 
+  - [Deep Learning](#deep-learning)
+  - [Package Management](#package-management)
+  - [Other Notes](#data-science-other-notes)
 - [Backend Development](#backend-development)
   - [Roadmap](#backend-development-roadmap) 
   - [Software Architecture](#software-architecture)
@@ -20,6 +25,7 @@ Table of Contents
   - [Data Format](#data-format)
   - [Deployment](#deployment)
   - [Security](#security)
+  - [Programming](#programming)
   - [Other Notes](#backend-other-notes)
 - [Cloud Infrastructure](#cloud-infrastructure)
   - [Cloud Provider](#cloud-provider)
@@ -28,17 +34,66 @@ Table of Contents
   - [Basic Stack](#basic-stack)
   - [Frontend Library](#frontend-library)
   - [Frontend Framework](#frontend-framework)
+  - [IDE](#frontend-ide)
   - [Other Notes](#frontend-other-notes)
 - [Web](#web)
   - [Web Hosting](#web-hosting)
 - [IOTG](#iotg)
 - [Programming](#programming)
-- [Data Science](#data-science)
 - [Business Intelligence](#business-intelligence)
 - [Book](#e-book)
 - [Course](#course)
 - [Technical Blog](#technical-blog)
 - [Technical Vlog](#technical-vlog)
+
+
+## Data Science
+
+### Machine Learning
+
+**Machine Learning Library**
+
+| Python Libraries |
+| ---------------------  |
+| NumPy _Multi Dimensional Array Processing_ |
+| Pandas _Data Manipulation & Analysis_ |
+| Matplotlib _Data Visualization_ |
+| Wandb _ML Visualization_ |
+| [Prefect _Data Automation_ ](https://github.com/PrefectHQ/prefect) |
+| OpenCV |
+| [FlashLight](https://github.com/flashlight/flashlight) |
+| [statsmodel _Statistical modeling and econometrics in Python_](https://github.com/statsmodels/statsmodels) |
+| [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)|
+| [HuggingFace _SOTA NLP_](https://huggingface.co/) |
+
+### Deep Learning
+
+| Deep Learning Frameworks |
+| ---------------------  |
+| Pytorch |
+| Tensorflow 1 / 2 |
+| Keras |
+| Eclipse DeepLearning4j |
+
+### Package Management
+
+**Python** 
+
+| Python |
+| ---------------------  |
+| Anaconda / Miniconda |
+| Pip |
+
+| Java |
+| ---------------------  |
+| Apache Maven |
+| Gradle |
+
+### Data Science Other Notes
+
+| Other Notes |
+| ---------------------  |
+| [Clean Code for Data Science Workflow](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3) |
 
 ## Backend Development
 
@@ -165,6 +220,26 @@ Table of Contents
 | Simple Web Token (SWT) |
 | Security Assertion Markup Language Token (SAML) |
 
+### Programming
+
+| Python | Resources|
+| ---------------------  | ---------------------  |
+| Unstructured | - https://github.com/vinta/awesome-python<br />- https://github.com/faif/python-patterns<br />- https://uwpce-pythoncert.github.io/SystemDevelopment/advanced_oo.html<br />- https://medium.com/@yong.cui01 |
+| Clean Code | - https://github.com/zedr/clean-code-python<br />- https://www.amazon.com/Clean-Code-Python-maintainable-efficient/dp/1800560214 |
+
+| Language | IDE |
+| ---------------------  | ---------------------  |
+| Java | - Intellij Community / Ultimate (Paid) |
+| Python | - Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) (Data Science)<br />- PyCharm<br />- Visual Studio Code|
+
+| Algorithm Performance  |
+| ---------------------  |
+| Big O Notation |
+
+| Others | Resources |
+| ---------------------  | ---------------------  |
+| Programming Practice Platform | - https://www.hackerrank.com/ |
+
 ### Backend Other Notes
 
 | Other Notes |
@@ -199,6 +274,11 @@ Table of Contents
 | CSS | Presentation Layer |
 | JavaScript | Interactive Layer |
 
+| Javascript / Typescript | Resources|
+| ---------------------  | ---------------------  |
+| Tutorials | -[TypeScript From Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)|
+| JavaScript ES6 | -[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)<br />-[Github es6features](https://github.com/lukehoban/es6features#readme)|
+
 ### Frontend Library
 
 | Name | Library |
@@ -211,6 +291,13 @@ Table of Contents
 | ---------------------  | ---------------------  |
 | Angular | Typescript framework |
 | VueJS | Javascript framework |
+
+### Frontend IDE
+
+| Language | IDE |
+| ---------------------  | ---------------------  |
+| JavaScript/TypeScript | - Visual Studio Code<br /> - JetBrains WebStorm (Paid) |
+
 
 ### Frontend Other Notes
 | Name | Functionality |
