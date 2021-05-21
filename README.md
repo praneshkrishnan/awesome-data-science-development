@@ -11,8 +11,15 @@ Table of Contents
   - [Structured Query Language](#structured-query-language)
   - [ERD Diagram Tool](#erd-diagram-tool)
   - [REST](#rest) 
-- [Frontend Development](#frontend-development)
+  - [Message Queue](#message-queue) 
+  - [Version Control](#version-control-system) 
+  - [Git-Based Hosting Platform](#git-based-code-hosting-platform)
+  - [Robotic Process Automation](#robotic-process-automation)
+  - [Other Notes](#backend-other-notes)
 - [Cloud Infrastructure](#cloud-infrastructure)
+  - [Cloud Provider](#cloud-provider)
+  - [Other Notes](#cloud-other-notes)
+- [Frontend Development](#frontend-development)
 - [Web](#web)
 - [Programming](#programming)
 - [Data Science](#data-science)
@@ -58,38 +65,31 @@ Table of Contents
 | ---------------------  |
 | [Representational State Transfer (REST) Architectural Style](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) |
 
-
 | REST API Reference |
 | ---------------------  |
 | [Github](https://developer.github.com/v3/) |
 | [Stripe](https://stripe.com/docs/api) |
 
-| Messaging Queue | Notes |
+### Message Queue
+
+| Message Queue | Notes |
 | ---------------------  | ---------------------  |
 | RabbitMQ | |
 | Kafka | - https://bit.ly/2JZH45D<br />- https://jaceklaskowski.gitbooks.io/apache-kafka/content/ |
 
+### Version Control System
+
 | Version Control System  |
 | ---------------------  |
 | Git |
+
+### Git-Based Code Hosting Platform
 
 | Git-based Code Hosting Platform  |
 | ---------------------  |
 | Github |
 | Gitlab |
 | Bitbucket |
-
-## Cloud Infrastructure
-
-| Cloud Provider |
-| ---------------------  |
-| AWS |
-| Google Cloud |
-| Microsoft Azure |
-| Huawei Cloud |
-
-**Notes**
-- [Server Setup Guidelines](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
 | DevOps, CI/CD |
 | ---------------------  |
@@ -104,15 +104,35 @@ Table of Contents
 | SonarCloud |
 | SonarLint |
 
+### Robotic Process Automation
+
 | Robotic Process Automatic (RPA)|
 | ---------------------  |
 | UiPath |
 | Automation Anywhere |
 
+### Backend Other Notes
+
 | Other Notes |
 | ---------------------  |
 | [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/) |
 | [Keep a change log](https://keepachangelog.com/en/1.0.0/) |
+
+## Cloud Infrastructure
+
+### Cloud Provider
+
+| Cloud Provider |
+| ---------------------  |
+| AWS |
+| Google Cloud |
+| Microsoft Azure |
+| Huawei Cloud |
+
+### Cloud Other Notes
+| Other Notes |
+| ---------------------  |
+|[Server Setup Guidelines](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)|
 
 
 ### Deployment
@@ -140,7 +160,6 @@ Table of Contents
 ### Documentation
 - Swagger
 - Javadoc (For Java)
-
 
 ### IOTG
 | Application | Functionality |
@@ -266,7 +285,6 @@ Table of Contents
 | [Apache Superset _Data Exploration and Visualization_](https://superset.apache.org/) |
 | [Grafana](https://grafana.com/) |
 | Prometheus _Monitoring System and Time Series Database_ |
-
 
 ### Model Serving
 - Fast API
