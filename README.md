@@ -42,7 +42,6 @@ Table of Contents
 - [Web](#web)
   - [Web Hosting](#web-hosting)
 - [IOTG](#iotg)
-- [Programming](#programming)
 - [Business Intelligence](#business-intelligence)
 - [Book](#e-book)
 - [Course](#course)
