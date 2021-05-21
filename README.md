@@ -230,8 +230,7 @@ Table of Contents
 | Edge Device | 
 | ---------------------  | 
 | Raspberry Pi | 
-| Jetson Nano | 
-| Jetson Nano | 
+| Nvidia Jetson TX1, Nano, TX2, Xavier | 
 
 | Application | Functionality |
 | ---------------------  | ---------------------  |
