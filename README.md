@@ -14,12 +14,17 @@ Table of Contents
   - [Message Queue](#message-queue) 
   - [Version Control](#version-control-system) 
   - [Git-Based Hosting Platform](#git-based-code-hosting-platform)
+  - [DevOps](#devops)
+  - [Code Analysis](#code-analysis)
   - [Robotic Process Automation](#robotic-process-automation)
   - [Other Notes](#backend-other-notes)
 - [Cloud Infrastructure](#cloud-infrastructure)
   - [Cloud Provider](#cloud-provider)
   - [Other Notes](#cloud-other-notes)
 - [Frontend Development](#frontend-development)
+  - [Basic Stack](#basic-stack)
+  - [Frontend Library](#frontend-library)
+  - [Frontend Framework](#frontend-framework)
 - [Web](#web)
 - [Programming](#programming)
 - [Data Science](#data-science)
@@ -91,12 +96,16 @@ Table of Contents
 | Gitlab |
 | Bitbucket |
 
+### DevOps
+
 | DevOps, CI/CD |
 | ---------------------  |
 | [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world) |
 | Jenkins |
 | Ansible |
 | Azure DevOps |
+
+### Code Analysis
 
 | Code Analysis |
 | ---------------------  |
@@ -134,6 +143,33 @@ Table of Contents
 | ---------------------  |
 |[Server Setup Guidelines](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)|
 
+## Frontend Development
+
+### Basic Stack
+
+| Basic Stack| Functionality |
+| ---------------------  | ---------------------  |
+| HTML | Content Layer |
+| CSS | Presentation Layer |
+| JavaScript | Interactive Layer |
+
+### Frontend Library
+
+| Name | Library |
+| ---------------------  | ---------------------  |
+| React | Javascript Library |
+
+### Frontend Framework
+
+| Name | Framework |
+| ---------------------  | ---------------------  |
+| Angular | Typescript framework |
+| VueJS | Javascript framework |
+
+**Others**
+| Name | Functionality |
+| ---------------------  | ---------------------  |
+| [Electron](https://github.com/electron/electron)| Cross Platform Desktop Application |
 
 ### Deployment
 **Containerization**
@@ -165,25 +201,6 @@ Table of Contents
 | Application | Functionality |
 | ---------------------  | ---------------------  |
 | [Thingsboard](https://github.com/thingsboard/thingsboard) | IOT data collection, processing and visualization |
-
-## Frontend Development
-
-| Basic Stack| Functionality |
-| ---------------------  | ---------------------  |
-| HTML | Content Layer |
-| CSS | Presentation Layer |
-| JavaScript | Interactive Layer |
-
-| Name | Framework / Library |
-| ---------------------  | ---------------------  |
-| Angular | Typescript framework |
-| VueJS | Javascript framework |
-| React | Javascript Library |
-
-**Others**
-| Name | Functionality |
-| ---------------------  | ---------------------  |
-| [Electron](https://github.com/electron/electron)| Cross Platform Desktop Application |
 
 ## Data Format 
 **XML**
