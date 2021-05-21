@@ -6,6 +6,11 @@ Table of Contents
 -----------------
 
 - [Backend Development](#backend-development)
+  - [Roadmap](#backend-development-roadmap) 
+  - [Software Architecture](#software-architecture)
+  - [Structured Query Language](#structured-query-language)
+  - [ERD Diagram Tool](#erd-diagram-tool)
+  - [REST](#rest) 
 - [Frontend Development](#frontend-development)
 - [Cloud Infrastructure](#cloud-infrastructure)
 - [Web](#web)
@@ -18,23 +23,25 @@ Table of Contents
 
 ## Backend Development
 
+### Backend Development Roadmap
 | Overview |
 | ---------------------  |
 | https://roadmap.sh/backend |
 
+### Software Architecture
 | Software Architecture |
 | ---------------------  |
 | Service-Oriented (SOA) |
 | Microservices |
 
+### Structured Query Language
 
-**Notes**
-- [Event-Driven](https://aws.amazon.com/event-driven-architecture/)
+| Structured Query Language |
+| ---------------------  |
+| [MySQL](https://www.mysqltutorial.org/) |
+| [PostgreSQL](https://www.postgresql.org/) |
 
-| Structure Query Language | Books |
-| ---------------------  | ---------------------  |
-| [MySQL](https://www.mysqltutorial.org/) | [MySQL_NotesForProfessional](https://drive.google.com/file/d/1DOvXKckGNXqety0-1WQybPzbhKenlHnJ/view?usp=sharing) |
-| [PostgreSQL](https://www.postgresql.org/) | - |
+### ERD Diagram Tool
 
 | ERD Diagram Tool |
 | ---------------------  |
@@ -45,14 +52,17 @@ Table of Contents
 | Visual Paradigm |
 | DbSchema |
 
+### REST
+
 | REST |
 | ---------------------  |
 | [Representational State Transfer (REST) Architectural Style](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) |
 
 
-**REST API References**
-- https://developer.github.com/v3/
-- https://stripe.com/docs/api
+| REST API Reference |
+| ---------------------  |
+| [Github](https://developer.github.com/v3/) |
+| [Stripe](https://stripe.com/docs/api) |
 
 | Messaging Queue | Notes |
 | ---------------------  | ---------------------  |
@@ -303,6 +313,7 @@ https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2I
 | [Practical AI on the Google Cloud Platform](https://drive.google.com/file/d/1_vXUazysEG9EzXadvGWV5PiByy_54C4v/view?usp=sharing) |
 | [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) |
 | [Principle of Data Wrangling](https://drive.google.com/file/d/1esVWOzVoitAayixFhAGMOXNvz2fPSWHX/view?usp=sharing) |
+| [MySQL_NotesForProfessional](https://drive.google.com/file/d/1DOvXKckGNXqety0-1WQybPzbhKenlHnJ/view?usp=sharing) |
 
 | Programming  |
 | ---------------------  |
