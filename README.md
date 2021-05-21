@@ -8,7 +8,10 @@ Table of Contents
 - [Data Science](#data-science)
   - [Machine Learning](#machine-learning) 
   - [Deep Learning](#deep-learning)
+  - [Model Serving](#model-serving)
+  - [Visualization](#visualization)
   - [Package Management](#package-management)
+  - [Domain Specific](#domain-specific)
   - [Other Notes](#data-science-other-notes)
 - [Backend Development](#backend-development)
   - [Roadmap](#backend-development-roadmap) 
@@ -75,6 +78,27 @@ Table of Contents
 | Keras |
 | Eclipse DeepLearning4j |
 
+| Neural Network Optimization |
+| ---------------------  |
+| TensorRT |
+
+### Model Serving
+
+| Model Serving |
+| ---------------------  |
+| FAST API |
+| Flask |
+| Tensorflow Serving |
+| [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/)  |
+
+### Visualization
+
+| Dashboard, Data Exploration & Visualization  |
+| ---------------------  |
+| [Apache Superset _Data Exploration and Visualization_](https://superset.apache.org/) |
+| [Grafana](https://grafana.com/) |
+| Prometheus _Monitoring System and Time Series Database_ |
+
 ### Package Management
 
 **Python** 
@@ -88,6 +112,20 @@ Table of Contents
 | ---------------------  |
 | Apache Maven |
 | Gradle |
+
+### Domain Specific
+
+| Text Detector  |
+| ---------------------  |
+| [EAST: An Efficient and Accurate Scene Text Detector CVPR 2017](https://paperswithcode.com/paper/east-an-efficient-and-accurate-scene-text) |
+ 
+| OCR  |
+| ---------------------  |
+| [EasyOCR](https://github.com/JaidedAI/EasyOCR) |
+
+| Time Series  |
+| ---------------------  |
+| [Forecasting: Principles and Practice](https://otexts.com/fpp3/) |
 
 ### Data Science Other Notes
 
