@@ -380,11 +380,21 @@ Table of Contents
 | [Practical AI on the Google Cloud Platform](https://drive.google.com/file/d/1_vXUazysEG9EzXadvGWV5PiByy_54C4v/view?usp=sharing) |
 | [Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/) |
 | [Principle of Data Wrangling](https://drive.google.com/file/d/1esVWOzVoitAayixFhAGMOXNvz2fPSWHX/view?usp=sharing) |
-| [MySQL_NotesForProfessional](https://drive.google.com/file/d/1DOvXKckGNXqety0-1WQybPzbhKenlHnJ/view?usp=sharing) |
+| [Python for Data Analysis](https://drive.google.com/file/d/1fyQ5WpDhOeFBidpTo26lDAT8nc70EtvE/view?usp=sharing) |
+
+
+| Data Science (Domain Specific) |
+| ---------------------  |
+| [Python For Finance](https://drive.google.com/file/d/1hWBiUiZiYf9CeFnDe5_K11IHmwujutYX/view?usp=sharing) |
 
 | Programming  |
 | ---------------------  |
 | [Java Notes for Professionals](https://www.computer-pdf.com/programming/java/830-tutorial-java-notes-for-professionals-book.html) |
+
+| Database |
+| ---------------------  |
+| [MySQL_NotesForProfessional](https://drive.google.com/file/d/1DOvXKckGNXqety0-1WQybPzbhKenlHnJ/view?usp=sharing) |
+
 
 ## Course
 
@@ -398,11 +408,6 @@ Table of Contents
 | NLP |
 | ---------------------  |
 | [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n) |
-
-
-| Finance (Data Science) |
-| ---------------------  |
-| [Python For Finance](https://drive.google.com/file/d/1hWBiUiZiYf9CeFnDe5_K11IHmwujutYX/view?usp=sharing) |
 
 
 ## Technical Blog
