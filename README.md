@@ -419,6 +419,7 @@ Table of Contents
 | [Dropbox Tech](https://dropbox.tech/)
 | [Uber Engineering Tech](https://eng.uber.com/category/articles/)
 | [Github](https://github.blog/) |
+| [Microsoft](https://www.microsoft.com/en-us/research/blog/) |
 
 | Data Science |
 | ---------------------  |
