@@ -399,6 +399,12 @@ Table of Contents
 | ---------------------  |
 | [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n) |
 
+
+| Finance (Data Science) |
+| ---------------------  |
+| [Python For Finance](https://drive.google.com/file/d/1hWBiUiZiYf9CeFnDe5_K11IHmwujutYX/view?usp=sharing) |
+
+
 ## Technical Blog
 
 | Software Engineering |
