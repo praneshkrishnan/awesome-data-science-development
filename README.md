@@ -425,6 +425,7 @@ Table of Contents
 | Data Science |
 | ---------------------  |
 | [Facebook AI](https://ai.facebook.com/) |
+| [Landing AI](https://landing.ai/developer/) |
 
 ## Technical Vlog
 
