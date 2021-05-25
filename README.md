@@ -283,6 +283,7 @@ Table of Contents
 | ---------------------  |
 | [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/) |
 | [Keep a change log](https://keepachangelog.com/en/1.0.0/) |
+| [Semantic Versioning](https://semver.org/) |
 
 ## Cloud Infrastructure
 
