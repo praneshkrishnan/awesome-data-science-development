@@ -312,10 +312,15 @@ Table of Contents
 | CSS | Presentation Layer |
 | JavaScript | Interactive Layer |
 
-| Javascript / Typescript | Resources|
-| ---------------------  | ---------------------  |
-| Tutorials | -[TypeScript From Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)|
-| JavaScript ES6 | -[Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)<br />-[Github es6features](https://github.com/lukehoban/es6features#readme)|
+| Javascript |
+| ---------------------  |
+| [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)<br />-[Github es6features](https://github.com/lukehoban/es6features#readme)|
+
+| Typescript |
+| ---------------------  |
+| [TypeScript From Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)|
+| [Awesome Typescript 1](https://github.com/dzharii/awesome-typescript)|
+| [Awesome Typescript 2](https://github.com/semlinker/awesome-typescript)|
 
 ### Frontend Library
 
