@@ -73,6 +73,7 @@ Table of Contents
 | Deep Learning Frameworks |
 | ---------------------  |
 | Pytorch |
+| [Pytorch Video](https://github.com/facebookresearch/pytorchvideo) |
 | Tensorflow 1 / 2 |
 | Keras |
 | Eclipse DeepLearning4j |
