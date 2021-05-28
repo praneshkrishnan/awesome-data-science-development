@@ -16,8 +16,6 @@ Table of Contents
 - [Backend Development](#backend-development)
   - [Roadmap](#backend-development-roadmap) 
   - [Software Architecture](#software-architecture)
-  - [Structured Query Language](#structured-query-language)
-  - [ERD Diagram Tool](#erd-diagram-tool)
   - [REST](#rest) 
   - [Message Queue](#message-queue) 
   - [Version Control](#version-control-system) 
@@ -30,6 +28,10 @@ Table of Contents
   - [Security](#security)
   - [Programming](#programming)
   - [Other Notes](#backend-other-notes)
+- [Database](#database)
+  - [Structured Query Language](#structured-query-language)
+  - [ERD Diagram Tool](#erd-diagram-tool)
+  - [Data Warehouse](#data-warehouse)
 - [Cloud Infrastructure](#cloud-infrastructure)
   - [Cloud Provider](#cloud-provider)
   - [Other Notes](#cloud-other-notes)
@@ -147,24 +149,6 @@ Table of Contents
 | ---------------------  |
 | Service-Oriented (SOA) |
 | Microservices |
-
-### Structured Query Language
-
-| Structured Query Language |
-| ---------------------  |
-| [MySQL](https://www.mysqltutorial.org/) |
-| [PostgreSQL](https://www.postgresql.org/) |
-
-### ERD Diagram Tool
-
-| ERD Diagram Tool |
-| ---------------------  |
-| Diagram.net |
-| DbDesigner.net |
-| SqlDbm |
-| DbDiagram.io |
-| Visual Paradigm |
-| DbSchema |
 
 ### REST
 
@@ -287,6 +271,32 @@ Table of Contents
 | [How to deal with breaking changes](https://nordicapis.com/what-are-breaking-changes-and-how-do-you-avoid-them/) |
 | [Keep a change log](https://keepachangelog.com/en/1.0.0/) |
 | [Semantic Versioning](https://semver.org/) |
+
+## Database 
+
+### Structured Query Language
+
+| Structured Query Language |
+| ---------------------  |
+| [MySQL](https://www.mysqltutorial.org/) |
+| [PostgreSQL](https://www.postgresql.org/) |
+
+### ERD Diagram Tool
+
+| ERD Diagram Tool |
+| ---------------------  |
+| Diagram.net |
+| DbDesigner.net |
+| SqlDbm |
+| DbDiagram.io |
+| Visual Paradigm |
+| DbSchema |
+
+### Data Warehouse 
+
+| Data Warehouse |
+| ---------------------  |
+| Apache Hive  |
 
 ## Cloud Infrastructure
 
