@@ -98,6 +98,8 @@ Table of Contents
 | [Apache Superset _Data Exploration and Visualization_](https://superset.apache.org/) |
 | [Grafana](https://grafana.com/) |
 | Prometheus _Monitoring System and Time Series Database_ |
+| Looker _Data Analytics Platform_ |
+| Google Data Studio |
 
 ### Package Management
 
