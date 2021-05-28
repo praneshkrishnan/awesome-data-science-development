@@ -354,7 +354,7 @@ Table of Contents
 | Web Hosting  |
 | ---------------------  |
 | [Github Pages _Hosting with Github_](https://pages.github.com/)
-
+| [Streamlit _Web Hosting with Python, focusing on Data Science_](https://streamlit.io/)
 ## IOTG
 
 | Edge Device | 
