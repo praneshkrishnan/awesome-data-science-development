@@ -163,7 +163,8 @@ Table of Contents
 
 | Others  |
 | ---------------------  |
-| Rest Documentation - Swagger |
+| Postman _API Testing Platform_ |
+| Swagger _REST API Documentation_ |
 
 
 ### Message Queue
