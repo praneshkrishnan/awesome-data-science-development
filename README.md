@@ -255,7 +255,7 @@ Table of Contents
 | Language | IDE |
 | ---------------------  | ---------------------  |
 | Java | - Intellij Community / Ultimate (Paid) |
-| Python | - Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) (Data Science)<br />- PyCharm<br />- Visual Studio Code|
+| Python | - Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / [Jupyter Lite](https://github.com/jtpio/jupyterlite)(Data Science)<br />- PyCharm<br />- Visual Studio Code|
 
 | Algorithm Performance  |
 | ---------------------  |
