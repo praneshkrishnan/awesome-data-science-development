@@ -135,6 +135,7 @@ Table of Contents
 
 | Other Notes |
 | ---------------------  |
+| Kaggle _Data Science Community with Dataset, Competitions_|
 | [Clean Code for Data Science Workflow](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3) |
 
 ## Backend Development
