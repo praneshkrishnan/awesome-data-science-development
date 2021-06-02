@@ -443,10 +443,12 @@ Table of Contents
 | [Github](https://github.blog/) |
 | [Microsoft](https://www.microsoft.com/en-us/research/blog/) |
 
+
 | Data Science |
 | ---------------------  |
 | [Facebook AI](https://ai.facebook.com/) |
 | [Landing AI](https://landing.ai/developer/) |
+| [SOCAR](https://tech.socarcorp.kr/posts/) |
 
 ## Technical Vlog
 
