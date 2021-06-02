@@ -448,7 +448,8 @@ Table of Contents
 | ---------------------  |
 | [Facebook AI](https://ai.facebook.com/) |
 | [Landing AI](https://landing.ai/developer/) |
-| [SOCAR](https://tech.socarcorp.kr/posts/) |
+| [DeepMind AI](https://deepmind.com/blog) |
+| [SOCAR (In Korean)](https://tech.socarcorp.kr/posts/) |
 
 ## Technical Vlog
 
