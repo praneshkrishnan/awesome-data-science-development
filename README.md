@@ -12,6 +12,7 @@ Table of Contents
   - [Visualization](#visualization)
   - [Package Management](#package-management)
   - [Domain Specific](#domain-specific)
+  - [Data Science Environment](#data-science-environment)
   - [Other Notes](#data-science-other-notes)
 - [Backend Development](#backend-development)
   - [Roadmap](#backend-development-roadmap) 
@@ -130,6 +131,14 @@ Table of Contents
 | Time Series  |
 | ---------------------  |
 | [Forecasting: Principles and Practice](https://otexts.com/fpp3/) |
+
+### Data Science Environment 
+
+| Python  |
+| ---------------------  |
+| [Deepnote](https://deepnote.com/home) |
+| Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / [Jupyter Lite](https://github.com/jtpio/jupyterlite)(Data Science)|
+| [Polynote](https://github.com/polynote/polynote) |
 
 ### Data Science Other Notes
 
@@ -256,7 +265,7 @@ Table of Contents
 | Language | IDE |
 | ---------------------  | ---------------------  |
 | Java | - Intellij Community / Ultimate (Paid) |
-| Python | - Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / [Jupyter Lite](https://github.com/jtpio/jupyterlite)(Data Science)<br />- PyCharm<br />- Visual Studio Code|
+| Python | - PyCharm<br />- Visual Studio Code|
 
 | Algorithm Performance  |
 | ---------------------  |
