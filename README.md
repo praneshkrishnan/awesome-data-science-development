@@ -451,6 +451,7 @@ Table of Contents
 | [Uber Engineering Tech](https://eng.uber.com/category/articles/)
 | [Github](https://github.blog/) |
 | [Microsoft](https://www.microsoft.com/en-us/research/blog/) |
+| [Gojek Tech](https://blog.gojek.io/) |
 
 
 | Data Science |
