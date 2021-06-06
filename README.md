@@ -108,10 +108,10 @@ Table of Contents
 
 **Python** 
 
-| Python |
-| ---------------------  |
-| Anaconda / Miniconda |
-| Pip |
+| Python | Notes |
+| ---------------------  | ---------------------  |
+| Anaconda / Miniconda | [Common Commands](https://gist.github.com/codenamewei/a1ac37a4d94264bac9517a306116f0e3)
+| Pip | TBD |
 
 | Java |
 | ---------------------  |
