@@ -128,6 +128,10 @@ Table of Contents
 | ---------------------  |
 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) |
 
+| Speech Recognition  |
+| ---------------------  |
+| [Top 5 OSS Library](https://medium.com/analytics-vidhya/top-5-speech-recognition-open-source-projects-and-libraries-with-most-stars-on-github-d705408b834) |
+
 | Time Series  |
 | ---------------------  |
 | [Forecasting: Principles and Practice](https://otexts.com/fpp3/) |
