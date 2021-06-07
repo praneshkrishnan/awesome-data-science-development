@@ -416,6 +416,7 @@ Table of Contents
 | [Principle of Data Wrangling](https://drive.google.com/file/d/1esVWOzVoitAayixFhAGMOXNvz2fPSWHX/view?usp=sharing) |
 | [Python for Data Analysis](https://drive.google.com/file/d/1fyQ5WpDhOeFBidpTo26lDAT8nc70EtvE/view?usp=sharing) |
 | [Data Science Cheatsheet](https://drive.google.com/file/d/17HW8Y44PFIoVevIbs2B_uzuMJ7IIVjOg/view?usp=sharing) |
+| [Data Cleaning](https://drive.google.com/file/d/1l8rXcxpFNrBg9mmIl7DGjN9KjRVkJ28U/view?usp=sharing) |
 
 
 | Data Science (Domain Specific) |
