@@ -92,6 +92,7 @@ Table of Contents
 | FAST API |
 | Flask |
 | Tensorflow Serving |
+| [TorchServe (Experimental)](https://github.com/pytorch/serve)
 | [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/)  |
 
 ### Visualization
