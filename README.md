@@ -418,6 +418,7 @@ Table of Contents
 | [Python for Data Analysis](https://drive.google.com/file/d/1fyQ5WpDhOeFBidpTo26lDAT8nc70EtvE/view?usp=sharing) |
 | [Data Science Cheatsheet](https://drive.google.com/file/d/17HW8Y44PFIoVevIbs2B_uzuMJ7IIVjOg/view?usp=sharing) |
 | [Data Cleaning](https://drive.google.com/file/d/1l8rXcxpFNrBg9mmIl7DGjN9KjRVkJ28U/view?usp=sharing) |
+| [Approaching Almost Any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost) |
 
 
 | Data Science (Domain Specific) |
