@@ -164,7 +164,7 @@ Table of Contents
 | Software Architecture |
 | ---------------------  |
 | Service-Oriented (SOA) |
-| Microservices |
+| [Microservices](https://github.com/ivan-bilan/The-Microservices-Pandect) |
 
 ### REST
 
@@ -447,6 +447,7 @@ Table of Contents
 | NLP |
 | ---------------------  |
 | [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n) |
+| [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) |
 
 
 ## Technical Blog
@@ -460,6 +461,7 @@ Table of Contents
 | [Github](https://github.blog/) |
 | [Microsoft](https://www.microsoft.com/en-us/research/blog/) |
 | [Gojek Tech](https://blog.gojek.io/) |
+| [Netflix Tech](https://netflixtechblog.com/) |
 
 
 | Data Science |
