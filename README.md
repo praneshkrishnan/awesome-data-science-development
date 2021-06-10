@@ -325,7 +325,7 @@ Table of Contents
 | Google Cloud |
 | Microsoft Azure |
 | Huawei Cloud |
-| Digital Ocean |
+| [Naver Cloud](https://www.ncloud.com/) |
 
 ### Cloud Other Notes
 | Other Notes |
