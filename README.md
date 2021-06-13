@@ -149,6 +149,7 @@ Table of Contents
 
 | Other Notes |
 | ---------------------  |
+| [Jupyter Docker _Data Science Notebooks in Docker image_](https://github.com/jupyter/docker-stacks) |
 | Kaggle _Data Science Community with Dataset, Competitions_|
 | [Clean Code for Data Science Workflow](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3) |
 | [Netron _Neural Network Visualization_](https://netron.app/)|
