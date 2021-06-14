@@ -472,6 +472,7 @@ Table of Contents
 | [DeepMind AI](https://deepmind.com/blog) |
 | [DataRobot Wiki](https://www.datarobot.com/wiki/) |
 | [SOCAR (In Korean)](https://tech.socarcorp.kr/posts/) |
+| [ZZSZA (In Korean)](https://zzsza.github.io/)
 
 ## Technical Vlog
 
