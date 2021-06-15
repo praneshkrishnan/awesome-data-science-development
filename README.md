@@ -141,6 +141,7 @@ Table of Contents
 
 | Python  |
 | ---------------------  |
+| [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) |
 | [Deepnote](https://deepnote.com/home) |
 | Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / [Jupyter Lite](https://github.com/jtpio/jupyterlite)(Data Science)|
 | [Polynote](https://github.com/polynote/polynote) |
