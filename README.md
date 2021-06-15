@@ -447,6 +447,7 @@ Table of Contents
 
 | NLP |
 | ---------------------  |
+| [Hugging Face Course](https://huggingface.co/course) |
 | [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n) |
 | [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) |
 
