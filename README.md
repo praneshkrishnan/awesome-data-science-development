@@ -444,6 +444,10 @@ Table of Contents
 | [The missing CS semester](https://missing.csail.mit.edu/) |
 | [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) |
 
+| Deep Learning | 
+| ---------------------  |
+| [Fast.ai](https://www.fast.ai/)
+
 
 | NLP |
 | ---------------------  |
