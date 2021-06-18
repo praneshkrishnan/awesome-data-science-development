@@ -25,6 +25,7 @@ Table of Contents
   - [Code Analysis](#code-analysis)
   - [Robotic Process Automation](#robotic-process-automation)
   - [Data Format](#data-format)
+  - [Command Line](#command-line)
   - [Deployment](#deployment)
   - [Security](#security)
   - [Programming](#programming)
@@ -237,6 +238,14 @@ Table of Contents
 | XML |
 | [Javascript Object Notation (JSON)](https://www.tutorialspoint.com/json/index.htm) |
 | [Base 64 Encoded String](https://bit.ly/2H2W0hT) |
+
+### Command Line
+
+| Command Line|
+| ---------------------  |
+| [Learn CLI The Hard Way](https://cglab.ca/~morin/teaching/1405/clcc/book/cli-crash-course.html)
+| [The Art Of Command Line](https://github.com/jlevy/the-art-of-command-line) |
+
 
 ### Deployment
 
