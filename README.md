@@ -169,6 +169,10 @@ Table of Contents
 | Service-Oriented (SOA) |
 | [Microservices](https://github.com/ivan-bilan/The-Microservices-Pandect) |
 
+| Other Notes |
+| ---------------------  |
+| [Domain Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) |
+
 ### REST
 
 | REST |
