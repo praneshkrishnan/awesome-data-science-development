@@ -64,13 +64,15 @@ Table of Contents
 | NumPy _Multi Dimensional Array Processing_ |
 | Pandas _Data Manipulation & Analysis_ |
 | Matplotlib _Data Visualization_ |
+| Seaborn _Data Visualization with Matplotlib_ |
 | Wandb _ML Visualization_ |
 | [Prefect _Data Automation_ ](https://github.com/PrefectHQ/prefect) |
-| OpenCV |
+| [OpenCV](https://pypi.org/project/opencv-python/) |
 | [FlashLight](https://github.com/flashlight/flashlight) |
 | [statsmodel _Statistical modeling and econometrics in Python_](https://github.com/statsmodels/statsmodels) |
 | [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)|
-| [HuggingFace _SOTA NLP_](https://huggingface.co/) |
+| [HuggingFace _NLP Oriented & Model HuB_](https://huggingface.co/) |
+| [Augly _Data Augmentation_](https://github.com/facebookresearch/AugLy) |
 
 ### Deep Learning
 
