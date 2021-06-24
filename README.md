@@ -61,7 +61,7 @@ Table of Contents
 
 | Python Libraries |
 | ---------------------  |
-| NumPy _Multi Dimensional Array Processing_ |
+| [NumPy _Multi Dimensional Array Processing_ ](https://numpy.org/doc/stable/user/whatisnumpy.html)|
 | Pandas _Data Manipulation & Analysis_ |
 | Matplotlib _Data Visualization_ |
 | Seaborn _Data Visualization with Matplotlib_ |
