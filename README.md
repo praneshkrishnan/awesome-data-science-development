@@ -462,7 +462,7 @@ Table of Contents
 
 | Deep Learning | 
 | ---------------------  |
-| [Fast.ai](https://www.fast.ai/)
+| [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 
 | NLP |
@@ -484,6 +484,7 @@ Table of Contents
 | [Microsoft](https://www.microsoft.com/en-us/research/blog/) |
 | [Gojek Tech](https://blog.gojek.io/) |
 | [Netflix Tech](https://netflixtechblog.com/) |
+| [fast.ai](https://www.fast.ai/) |
 
 
 | Data Science |
