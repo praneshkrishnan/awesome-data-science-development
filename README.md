@@ -476,6 +476,10 @@ Table of Contents
 | [Stanford NLP CS224n](http://web.stanford.edu/class/cs224n) |
 | [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) |
 
+| Hands On Learning | 
+| ---------------------  |
+| [Qwiklabs _Hand On Cloud Training_](https://www.qwiklabs.com/) |
+
 
 ## Technical Blog
 
