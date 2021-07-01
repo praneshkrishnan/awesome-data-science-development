@@ -7,7 +7,6 @@ Table of Contents
 
 - [Data Science](#data-science)
   - [Machine Learning](#machine-learning) 
-  - [Deep Learning](#deep-learning)
   - [ML Ops](#ml-ops)
   - [Visualization](#visualization)
   - [Package Management](#package-management)
@@ -73,8 +72,8 @@ Table of Contents
 | [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)|
 | [HuggingFace _NLP Oriented & Model HuB_](https://huggingface.co/) |
 | [Augly _Data Augmentation_](https://github.com/facebookresearch/AugLy) |
-
-### Deep Learning
+| [Cleverhans _Benchmark ML System to Adversarial Examples_](https://github.com/cleverhans-lab/cleverhans) |
+| [Foolbox _Run adversarial attacks against ML models_](https://github.com/bethgelab/foolbox) |
 
 | Deep Learning Frameworks |
 | ---------------------  |
@@ -87,6 +86,10 @@ Table of Contents
 | Neural Network Optimization |
 | ---------------------  |
 | TensorRT |
+
+| Data, Model Probing | 
+| ---------------------  |
+| [What-If Tool](https://pair-code.github.io/what-if-tool/)
 
 ### ML Ops
 
@@ -498,12 +501,15 @@ Table of Contents
 
 | Data Science |
 | ---------------------  |
+| [Google AI Blog](https://ai.googleblog.com/)
 | [Facebook AI](https://ai.facebook.com/) |
 | [Landing AI](https://landing.ai/developer/) |
 | [DeepMind AI](https://deepmind.com/blog) |
+| [Cleverhands _Security & Privacy in ML_](http://www.cleverhans.io/) |
 | [DataRobot Wiki](https://www.datarobot.com/wiki/) |
 | [SOCAR (In Korean)](https://tech.socarcorp.kr/posts/) |
 | [ZZSZA (In Korean)](https://zzsza.github.io/)
+
 
 ## Technical Vlog
 
