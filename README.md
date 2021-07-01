@@ -8,7 +8,7 @@ Table of Contents
 - [Data Science](#data-science)
   - [Machine Learning](#machine-learning) 
   - [Deep Learning](#deep-learning)
-  - [Model Serving](#model-serving)
+  - [ML Ops](#ml-ops)
   - [Visualization](#visualization)
   - [Package Management](#package-management)
   - [Domain Specific](#domain-specific)
@@ -88,7 +88,7 @@ Table of Contents
 | ---------------------  |
 | TensorRT |
 
-### Model Serving
+### ML Ops
 
 | Model Serving |
 | ---------------------  |
@@ -97,6 +97,11 @@ Table of Contents
 | Tensorflow Serving |
 | [TorchServe (Experimental)](https://github.com/pytorch/serve)
 | [KbServing](https://www.kubeflow.org/docs/components/serving/kfserving/)  |
+
+| Other  |
+| ---------------------  |
+| [Tensorflow Extended (TFX) _Google-production-scale ML platform_](https://www.tensorflow.org/tfx) |
+
 
 ### Visualization
 
