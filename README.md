@@ -91,6 +91,12 @@ Table of Contents
 | ---------------------  |
 | [What-If Tool](https://pair-code.github.io/what-if-tool/)
 
+**Auto ML**
+
+| Auto ML | 
+| ---------------------  |
+| [H20 AutoML](https://www.h2o.ai/products/h2o-automl/) |
+
 ### ML Ops
 
 | Model Serving |
