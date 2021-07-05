@@ -479,6 +479,10 @@ Table of Contents
 | ---------------------  |
 | [Practical Deep Learning for Coders](https://course.fast.ai/)
 
+| Computer Vision | 
+| ---------------------  |
+| [Convolutional Neural Network for Visual Recognition CS231n](https://cs231n.github.io/)
+
 
 | NLP |
 | ---------------------  |
