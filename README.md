@@ -473,6 +473,7 @@ Table of Contents
 | [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) |
 | [The missing CS semester](https://missing.csail.mit.edu/) |
 | [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) |
+| [Stanford Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)|
 
 | Deep Learning | 
 | ---------------------  |
