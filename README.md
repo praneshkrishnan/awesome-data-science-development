@@ -21,6 +21,7 @@ Table of Contents
   - [Version Control](#version-control-system) 
   - [Git-Based Hosting Platform](#git-based-code-hosting-platform)
   - [DevOps](#devops)
+  - [Monitoring](#monitoring)
   - [Code Analysis](#code-analysis)
   - [Robotic Process Automation](#robotic-process-automation)
   - [Data Format](#data-format)
@@ -459,7 +460,6 @@ Table of Contents
 | [Data Cleaning](https://drive.google.com/file/d/1l8rXcxpFNrBg9mmIl7DGjN9KjRVkJ28U/view?usp=sharing) |
 | [Approaching Almost Any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost) |
 
-
 | Data Science (Domain Specific) |
 | ---------------------  |
 | [Python For Finance](https://drive.google.com/file/d/1hWBiUiZiYf9CeFnDe5_K11IHmwujutYX/view?usp=sharing) |
@@ -475,12 +475,22 @@ Table of Contents
 
 ## Course
 
+**Computer Science**
+
 | Computer Science  |
 | ---------------------  |
 | [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses) |
 | [The missing CS semester](https://missing.csail.mit.edu/) |
 | [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/) |
 | [Stanford Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)|
+
+**Cybersecurity**
+
+| Cybersecurity |
+| [Cloudfare](https://www.cloudflare.com/en-gb/learning/) |
+| [How HTTP works](https://howhttps.works/) |
+
+**Data Science**
 
 | Deep Learning | 
 | ---------------------  |
@@ -489,7 +499,6 @@ Table of Contents
 | Computer Vision | 
 | ---------------------  |
 | [Convolutional Neural Network for Visual Recognition CS231n](https://cs231n.github.io/)
-
 
 | NLP |
 | ---------------------  |
