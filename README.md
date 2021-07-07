@@ -238,6 +238,12 @@ Table of Contents
 | Ansible |
 | Azure DevOps |
 
+### Monitoring
+
+| DevOps, CI/CD |
+| ---------------------  |
+| [Datadog](https://www.datadoghq.com/) |
+
 ### Code Analysis
 
 | Code Analysis |
@@ -355,9 +361,8 @@ Table of Contents
 | Cloud Provider |
 | ---------------------  |
 | AWS |
-| Google Cloud |
+| Google Cloud Platform |
 | Microsoft Azure |
-| Huawei Cloud |
 | [Naver Cloud](https://www.ncloud.com/) |
 
 ### Cloud Other Notes
