@@ -64,6 +64,7 @@ Table of Contents
 | [NumPy _Multi Dimensional Array Processing_ ](https://numpy.org/doc/stable/user/whatisnumpy.html)|
 | [Scipy _Scientific Library for Python_](https://docs.scipy.org/doc/scipy/reference/) |
 | Pandas _Data Manipulation & Analysis_ |
+| [Scikit-Learn _Machine Learning Library_](https://scikit-learn.org/stable/) |
 | Matplotlib _Data Visualization_ |
 | Seaborn _Data Visualization with Matplotlib_ |
 | Wandb _ML Visualization_ |
