@@ -82,6 +82,7 @@ Table of Contents
 | Pytorch |
 | [Pytorch Video](https://github.com/facebookresearch/pytorchvideo) |
 | Tensorflow 1 / 2 |
+| [Flax](https://github.com/google/flax) |
 | Keras |
 | Eclipse DeepLearning4j |
 
