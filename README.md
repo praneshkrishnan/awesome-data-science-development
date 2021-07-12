@@ -70,6 +70,7 @@ Table of Contents
 | Wandb _ML Visualization_ |
 | [Prefect _Data Automation_ ](https://github.com/PrefectHQ/prefect) |
 | [OpenCV](https://pypi.org/project/opencv-python/) |
+| [Pillow](https://github.com/python-pillow/Pillow) |
 | [FlashLight](https://github.com/flashlight/flashlight) |
 | [statsmodel _Statistical modeling and econometrics in Python_](https://github.com/statsmodels/statsmodels) |
 | [Numpy_ml _Machine Learning, in Numpy_](https://github.com/ddbourgin/numpy-ml)|
