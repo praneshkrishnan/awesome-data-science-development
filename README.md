@@ -12,6 +12,7 @@ Table of Contents
   - [Package Management](#package-management)
   - [Domain Specific](#domain-specific)
   - [Data Science Environment](#data-science-environment)
+  - [Dataset](#dataset)
   - [Other Notes](#data-science-other-notes)
 - [Backend Development](#backend-development)
   - [Roadmap](#backend-development-roadmap) 
@@ -168,12 +169,18 @@ Table of Contents
 | Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / [Jupyter Lite](https://github.com/jtpio/jupyterlite)(Data Science)|
 | [Polynote](https://github.com/polynote/polynote) |
 
+### Dataset
+
+| Dataset  |
+| ---------------------  |
+| [Awesome Data](https://github.com/datasets/awesome-data)  |
+| [Awesome Public Dataset](https://github.com/awesomedata/awesome-public-datasets)  |
+
 ### Data Science Other Notes
 
 | Other Notes |
 | ---------------------  |
 | [Jupyter Docker _Data Science Notebooks in Docker image_](https://github.com/jupyter/docker-stacks) |
-| Kaggle _Data Science Community with Dataset, Competitions_|
 | [Clean Code for Data Science Workflow](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3) |
 | [Netron _Neural Network Visualization_](https://netron.app/)|
 
