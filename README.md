@@ -12,7 +12,7 @@ Table of Contents
   - [Package Management](#package-management)
   - [Domain Specific](#domain-specific)
   - [Data Science Environment](#data-science-environment)
-  - [Dataset](#dataset)
+  - [Data](#data)
   - [Other Notes](#data-science-other-notes)
 - [Backend Development](#backend-development)
   - [Roadmap](#backend-development-roadmap) 
@@ -169,7 +169,10 @@ Table of Contents
 | Jupyter Notebook / [Jupyter Lab](https://github.com/mauhai/awesome-jupyterlab) / [Jupyter Lite](https://github.com/jtpio/jupyterlite)(Data Science)|
 | [Polynote](https://github.com/polynote/polynote) |
 
-### Dataset
+### Data
+| Data  |
+| ---------------------  |
+| [A Beginner Guide's To Data](https://jameskle.com/writes/beginner-guide-to-data)  |
 
 | Dataset  |
 | ---------------------  |
@@ -183,6 +186,7 @@ Table of Contents
 | [Jupyter Docker _Data Science Notebooks in Docker image_](https://github.com/jupyter/docker-stacks) |
 | [Clean Code for Data Science Workflow](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=3) |
 | [Netron _Neural Network Visualization_](https://netron.app/)|
+
 
 ## Backend Development
 
